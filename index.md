@@ -1,6 +1,6 @@
 # Welcome to WeAreDevelopers WorldCongress 2024 Demos
 
-<img width="288" alt="image" src="https://cdn.prod.website-files.com/5e9996a6531fea7d1003b18e/6414b1e3b9640fcca069b10b_Humans-General.png">
+<img width="300" alt="image" src="https://cdn.prod.website-files.com/5e9996a6531fea7d1003b18e/6414b1e3b9640fcca069b10b_Humans-General.png">
 
 > > > ### Demos
 
